@@ -1,0 +1,14 @@
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net6.0\ConversaoImplicitaCasting.exe
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net6.0\ConversaoImplicitaCasting.deps.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net6.0\ConversaoImplicitaCasting.runtimeconfig.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net6.0\ConversaoImplicitaCasting.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net6.0\ConversaoImplicitaCasting.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net6.0\ConversaoImplicitaCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net6.0\ConversaoImplicitaCasting.AssemblyInfoInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net6.0\ConversaoImplicitaCasting.AssemblyInfo.cs
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net6.0\ConversaoImplicitaCasting.csproj.CoreCompileInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net6.0\ConversaoImplicitaCasting.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net6.0\refint\ConversaoImplicitaCasting.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net6.0\ConversaoImplicitaCasting.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net6.0\ConversaoImplicitaCasting.genruntimeconfig.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net6.0\ref\ConversaoImplicitaCasting.dll

@@ -1,0 +1,14 @@
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\bin\Debug\net6.0\DataInput2.exe
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\bin\Debug\net6.0\DataInput2.deps.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\bin\Debug\net6.0\DataInput2.runtimeconfig.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\bin\Debug\net6.0\DataInput2.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\bin\Debug\net6.0\DataInput2.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\obj\Debug\net6.0\DataInput2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\obj\Debug\net6.0\DataInput2.AssemblyInfoInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\obj\Debug\net6.0\DataInput2.AssemblyInfo.cs
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\obj\Debug\net6.0\DataInput2.csproj.CoreCompileInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\obj\Debug\net6.0\DataInput2.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\obj\Debug\net6.0\refint\DataInput2.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\obj\Debug\net6.0\DataInput2.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\obj\Debug\net6.0\DataInput2.genruntimeconfig.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput2\DataInput2\obj\Debug\net6.0\ref\DataInput2.dll

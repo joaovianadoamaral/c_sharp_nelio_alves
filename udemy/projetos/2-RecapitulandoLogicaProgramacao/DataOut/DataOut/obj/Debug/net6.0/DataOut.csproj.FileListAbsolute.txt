@@ -1,0 +1,14 @@
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\bin\Debug\net6.0\DataOut.exe
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\bin\Debug\net6.0\DataOut.deps.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\bin\Debug\net6.0\DataOut.runtimeconfig.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\bin\Debug\net6.0\DataOut.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\bin\Debug\net6.0\DataOut.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\obj\Debug\net6.0\DataOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\obj\Debug\net6.0\DataOut.AssemblyInfoInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\obj\Debug\net6.0\DataOut.AssemblyInfo.cs
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\obj\Debug\net6.0\DataOut.csproj.CoreCompileInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\obj\Debug\net6.0\DataOut.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\obj\Debug\net6.0\refint\DataOut.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\obj\Debug\net6.0\DataOut.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\obj\Debug\net6.0\DataOut.genruntimeconfig.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataOut\DataOut\obj\Debug\net6.0\ref\DataOut.dll

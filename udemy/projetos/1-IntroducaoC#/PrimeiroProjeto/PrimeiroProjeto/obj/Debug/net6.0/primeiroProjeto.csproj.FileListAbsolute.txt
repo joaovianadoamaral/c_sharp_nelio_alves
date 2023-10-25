@@ -1,0 +1,14 @@
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.exe
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.deps.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.runtimeconfig.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.AssemblyInfo.cs
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\obj\Debug\net6.0\refint\primeiroProjeto.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.genruntimeconfig.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\PrimeiroProjeto\primeiroProjeto\obj\Debug\net6.0\ref\primeiroProjeto.dll

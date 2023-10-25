@@ -1,0 +1,14 @@
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\bin\Debug\net6.0\FixExercise.exe
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\bin\Debug\net6.0\FixExercise.deps.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\bin\Debug\net6.0\FixExercise.runtimeconfig.json
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\bin\Debug\net6.0\FixExercise.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\bin\Debug\net6.0\FixExercise.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\obj\Debug\net6.0\FixExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\obj\Debug\net6.0\FixExercise.AssemblyInfoInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\obj\Debug\net6.0\FixExercise.AssemblyInfo.cs
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\obj\Debug\net6.0\FixExercise.csproj.CoreCompileInputs.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\obj\Debug\net6.0\FixExercise.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\obj\Debug\net6.0\refint\FixExercise.dll
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\obj\Debug\net6.0\FixExercise.pdb
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\obj\Debug\net6.0\FixExercise.genruntimeconfig.cache
+C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\FixExercise\FixExercise\obj\Debug\net6.0\ref\FixExercise.dll
