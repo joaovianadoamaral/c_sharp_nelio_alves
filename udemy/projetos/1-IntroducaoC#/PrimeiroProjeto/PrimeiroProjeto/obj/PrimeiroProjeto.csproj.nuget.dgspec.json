@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\PrimeiroProjeto\\primeiroProjeto\\PrimeiroProjeto.csproj": {}
+    "C:\\Users\\joaoj\\Source\\Repos\\joaovianadoamaral\\c_sharp_nelio_alves\\udemy\\projetos\\1-IntroducaoC#\\PrimeiroProjeto\\primeiroProjeto\\PrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\PrimeiroProjeto\\primeiroProjeto\\PrimeiroProjeto.csproj": {
+    "C:\\Users\\joaoj\\Source\\Repos\\joaovianadoamaral\\c_sharp_nelio_alves\\udemy\\projetos\\1-IntroducaoC#\\PrimeiroProjeto\\primeiroProjeto\\PrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\PrimeiroProjeto\\primeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\joaoj\\Source\\Repos\\joaovianadoamaral\\c_sharp_nelio_alves\\udemy\\projetos\\1-IntroducaoC#\\PrimeiroProjeto\\primeiroProjeto\\PrimeiroProjeto.csproj",
         "projectName": "PrimeiroProjeto",
-        "projectPath": "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\PrimeiroProjeto\\primeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectPath": "C:\\Users\\joaoj\\Source\\Repos\\joaovianadoamaral\\c_sharp_nelio_alves\\udemy\\projetos\\1-IntroducaoC#\\PrimeiroProjeto\\primeiroProjeto\\PrimeiroProjeto.csproj",
         "packagesPath": "C:\\Users\\joaoj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\PrimeiroProjeto\\primeiroProjeto\\obj\\",
+        "outputPath": "C:\\Users\\joaoj\\Source\\Repos\\joaovianadoamaral\\c_sharp_nelio_alves\\udemy\\projetos\\1-IntroducaoC#\\PrimeiroProjeto\\primeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

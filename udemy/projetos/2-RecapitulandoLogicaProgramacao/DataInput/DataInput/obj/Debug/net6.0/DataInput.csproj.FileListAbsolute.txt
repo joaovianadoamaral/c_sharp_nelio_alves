@@ -12,3 +12,18 @@ C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-Recapitul
 C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.pdb
 C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.genruntimeconfig.cache
 C:\Users\joaoj\OneDrive\Área de Trabalho\prog\CSharp\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\ref\DataInput.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.exe
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.deps.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.runtimeconfig.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\bin\Debug\net6.0\DataInput.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.AssemblyInfoInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.AssemblyInfo.cs
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.csproj.CoreCompileInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.sourcelink.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\refint\DataInput.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\DataInput.genruntimeconfig.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\DataInput\DataInput\obj\Debug\net6.0\ref\DataInput.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\FixExercise.csproj": {}
+    "D:\\estudos\\prog\\c_sharp_nelio_alves\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\FixExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\FixExercise.csproj": {
+    "D:\\estudos\\prog\\c_sharp_nelio_alves\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\FixExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\FixExercise.csproj",
+        "projectUniqueName": "D:\\estudos\\prog\\c_sharp_nelio_alves\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\FixExercise.csproj",
         "projectName": "FixExercise",
-        "projectPath": "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\FixExercise.csproj",
+        "projectPath": "D:\\estudos\\prog\\c_sharp_nelio_alves\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\FixExercise.csproj",
         "packagesPath": "C:\\Users\\joaoj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoj\\OneDrive\\Área de Trabalho\\prog\\CSharp\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\obj\\",
+        "outputPath": "D:\\estudos\\prog\\c_sharp_nelio_alves\\udemy\\projetos\\2-RecapitulandoLogicaProgramacao\\FixExercise\\FixExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

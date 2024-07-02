@@ -1,0 +1,15 @@
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\bin\Debug\net8.0\EvenOdd.exe
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\bin\Debug\net8.0\EvenOdd.deps.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\bin\Debug\net8.0\EvenOdd.runtimeconfig.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\bin\Debug\net8.0\EvenOdd.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\bin\Debug\net8.0\EvenOdd.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\EvenOdd.AssemblyInfoInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\EvenOdd.AssemblyInfo.cs
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\EvenOdd.csproj.CoreCompileInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\EvenOdd.sourcelink.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\EvenOdd.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\refint\EvenOdd.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\EvenOdd.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\EvenOdd.genruntimeconfig.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\EvenOdd\obj\Debug\net8.0\ref\EvenOdd.dll

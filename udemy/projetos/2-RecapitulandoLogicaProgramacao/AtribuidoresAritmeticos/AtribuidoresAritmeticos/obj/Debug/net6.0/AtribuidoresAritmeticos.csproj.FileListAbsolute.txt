@@ -1,0 +1,15 @@
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\bin\Debug\net6.0\AtribuidoresAritmeticos.exe
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\bin\Debug\net6.0\AtribuidoresAritmeticos.deps.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\bin\Debug\net6.0\AtribuidoresAritmeticos.runtimeconfig.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\bin\Debug\net6.0\AtribuidoresAritmeticos.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\bin\Debug\net6.0\AtribuidoresAritmeticos.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\AtribuidoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\AtribuidoresAritmeticos.AssemblyInfoInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\AtribuidoresAritmeticos.AssemblyInfo.cs
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\AtribuidoresAritmeticos.csproj.CoreCompileInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\AtribuidoresAritmeticos.sourcelink.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\AtribuidoresAritmeticos.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\refint\AtribuidoresAritmeticos.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\AtribuidoresAritmeticos.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\AtribuidoresAritmeticos.genruntimeconfig.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\AtribuidoresAritmeticos\AtribuidoresAritmeticos\obj\Debug\net6.0\ref\AtribuidoresAritmeticos.dll
