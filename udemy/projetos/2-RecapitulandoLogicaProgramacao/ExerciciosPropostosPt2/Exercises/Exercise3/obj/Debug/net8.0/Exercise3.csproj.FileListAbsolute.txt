@@ -1,0 +1,15 @@
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\bin\Debug\net8.0\Exercise3.exe
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\bin\Debug\net8.0\Exercise3.deps.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\bin\Debug\net8.0\Exercise3.runtimeconfig.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\bin\Debug\net8.0\Exercise3.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\bin\Debug\net8.0\Exercise3.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfoInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfo.cs
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\Exercise3.csproj.CoreCompileInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\Exercise3.sourcelink.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\Exercise3.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\refint\Exercise3.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\Exercise3.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\Exercise3.genruntimeconfig.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise3\obj\Debug\net8.0\ref\Exercise3.dll

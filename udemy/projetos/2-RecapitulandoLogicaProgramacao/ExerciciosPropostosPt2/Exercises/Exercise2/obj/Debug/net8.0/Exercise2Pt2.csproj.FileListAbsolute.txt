@@ -1,0 +1,15 @@
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\bin\Debug\net8.0\Exercise2Pt2.exe
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\bin\Debug\net8.0\Exercise2Pt2.deps.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\bin\Debug\net8.0\Exercise2Pt2.runtimeconfig.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\bin\Debug\net8.0\Exercise2Pt2.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\bin\Debug\net8.0\Exercise2Pt2.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\Exercise2Pt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\Exercise2Pt2.AssemblyInfoInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\Exercise2Pt2.AssemblyInfo.cs
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\Exercise2Pt2.csproj.CoreCompileInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\Exercise2Pt2.sourcelink.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\Exercise2Pt2.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\refint\Exercise2Pt2.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\Exercise2Pt2.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\Exercise2Pt2.genruntimeconfig.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\ExerciciosPropostosPt2\Exercise2Pt2\Exercise2Pt2\obj\Debug\net8.0\ref\Exercise2Pt2.dll
