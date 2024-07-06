@@ -1,0 +1,15 @@
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\bin\Debug\net6.0\SumTwoNumbers.exe
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\bin\Debug\net6.0\SumTwoNumbers.deps.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\bin\Debug\net6.0\SumTwoNumbers.runtimeconfig.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\bin\Debug\net6.0\SumTwoNumbers.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\bin\Debug\net6.0\SumTwoNumbers.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\SumTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\SumTwoNumbers.AssemblyInfoInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\SumTwoNumbers.AssemblyInfo.cs
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\SumTwoNumbers.csproj.CoreCompileInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\SumTwoNumbers.sourcelink.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\SumTwoNumbers.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\refint\SumTwoNumbers.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\SumTwoNumbers.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\SumTwoNumbers.genruntimeconfig.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\2-RecapitulandoLogicaProgramacao\Exerciciospropostos\Exercise1\Exercise1\obj\Debug\net6.0\ref\SumTwoNumbers.dll
