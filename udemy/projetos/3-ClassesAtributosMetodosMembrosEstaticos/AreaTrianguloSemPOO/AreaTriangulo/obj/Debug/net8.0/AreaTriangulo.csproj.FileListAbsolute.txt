@@ -1,0 +1,15 @@
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.exe
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.deps.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.runtimeconfig.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.AssemblyInfoInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.AssemblyInfo.cs
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.csproj.CoreCompileInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.sourcelink.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\refint\AreaTriangulo.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.genruntimeconfig.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\AreaTrianguloSemPOO\AreaTriangulo\obj\Debug\net8.0\ref\AreaTriangulo.dll
