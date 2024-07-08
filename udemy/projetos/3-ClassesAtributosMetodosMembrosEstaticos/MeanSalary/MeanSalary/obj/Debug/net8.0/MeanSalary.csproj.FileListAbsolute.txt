@@ -1,0 +1,15 @@
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\bin\Debug\net8.0\MeanSalary.exe
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\bin\Debug\net8.0\MeanSalary.deps.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\bin\Debug\net8.0\MeanSalary.runtimeconfig.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\bin\Debug\net8.0\MeanSalary.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\bin\Debug\net8.0\MeanSalary.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\MeanSalary.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\MeanSalary.AssemblyInfoInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\MeanSalary.AssemblyInfo.cs
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\MeanSalary.csproj.CoreCompileInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\MeanSalary.sourcelink.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\MeanSalary.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\refint\MeanSalary.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\MeanSalary.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\MeanSalary.genruntimeconfig.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\MeanSalary\MeanSalary\obj\Debug\net8.0\ref\MeanSalary.dll
