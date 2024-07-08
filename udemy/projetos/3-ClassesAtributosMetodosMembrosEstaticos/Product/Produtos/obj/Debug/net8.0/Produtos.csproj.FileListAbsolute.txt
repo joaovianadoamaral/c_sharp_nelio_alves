@@ -1,0 +1,15 @@
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\bin\Debug\net8.0\Produtos.exe
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\bin\Debug\net8.0\Produtos.deps.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\bin\Debug\net8.0\Produtos.runtimeconfig.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\bin\Debug\net8.0\Produtos.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\bin\Debug\net8.0\Produtos.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfoInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfo.cs
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\Produtos.csproj.CoreCompileInputs.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\Produtos.sourcelink.json
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\Produtos.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\refint\Produtos.dll
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\Produtos.pdb
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\Produtos.genruntimeconfig.cache
+D:\estudos\prog\c_sharp_nelio_alves\udemy\projetos\3-ClassesAtributosMetodosMembrosEstaticos\Product\Produtos\obj\Debug\net8.0\ref\Produtos.dll
