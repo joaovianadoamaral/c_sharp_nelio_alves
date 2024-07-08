@@ -1,0 +1,14 @@
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\bin\Debug\net8.0\AreaTrianguloComPOO.exe
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\bin\Debug\net8.0\AreaTrianguloComPOO.deps.json
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\bin\Debug\net8.0\AreaTrianguloComPOO.runtimeconfig.json
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\bin\Debug\net8.0\AreaTrianguloComPOO.dll
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\bin\Debug\net8.0\AreaTrianguloComPOO.pdb
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\obj\Debug\net8.0\AreaTrianguloComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\obj\Debug\net8.0\AreaTrianguloComPOO.AssemblyInfoInputs.cache
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\obj\Debug\net8.0\AreaTrianguloComPOO.AssemblyInfo.cs
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\obj\Debug\net8.0\AreaTrianguloComPOO.csproj.CoreCompileInputs.cache
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\obj\Debug\net8.0\AreaTrianguloComPOO.dll
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\obj\Debug\net8.0\refint\AreaTrianguloComPOO.dll
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\obj\Debug\net8.0\AreaTrianguloComPOO.pdb
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\obj\Debug\net8.0\AreaTrianguloComPOO.genruntimeconfig.cache
+C:\Users\joaoj\source\repos\AreaTrianguloComPOO\obj\Debug\net8.0\ref\AreaTrianguloComPOO.dll
