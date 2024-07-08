@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -30,6 +31,17 @@ namespace Produtos
             Amount -= Quantity;
         }
 
+        public override string ToString()
+        {
+            string text;
+            double TotalValue = TotalValueInStock();
 
+            text = $"{Name}, ${Price.ToString("F2", CultureInfo.InvariantCulture)}, ";
+            text += $"{Amount} unidades, ";
+            text += $"Total: $ {TotalValue.ToString("F2", CultureInfo.InvariantCulture)}";
+
+
+            return text;
+        }
     }
 }

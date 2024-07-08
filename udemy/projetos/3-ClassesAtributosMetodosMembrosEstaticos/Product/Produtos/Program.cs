@@ -24,11 +24,8 @@ namespace Produtos
             double TotalValueProduct = product.TotalValueInStock();
             
             Console.WriteLine();
-            Console.Write("Dados do produto: ");
-            Console.Write($"{product.Name}, ${product.Price.ToString("F2", CultureInfo.InvariantCulture)}, ");
-            Console.Write($"{product.Amount} unidades, ");
-            Console.WriteLine($"Total: $ {TotalValueProduct.ToString("F2", CultureInfo.InvariantCulture)}");
-            Console.WriteLine();
+            Console.WriteLine("Dados do produto: ");
+            Console.WriteLine(product);
 
             // adicionando produtos ao estoque
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
@@ -39,11 +36,8 @@ namespace Produtos
 
             //Mostrando dados atualizados
             Console.WriteLine();
-            Console.Write("Dados atualizados: ");
-            Console.Write($"{product.Name}, ${product.Price.ToString("F2", CultureInfo.InvariantCulture)}, ");
-            Console.Write($"{product.Amount} unidades, ");
-            Console.WriteLine($"Total: $ {TotalValueProduct.ToString("F2", CultureInfo.InvariantCulture)}");
-            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: ");
+            Console.WriteLine(product);
 
             // removendo produtos do estoque
             Console.Write("Digite o número de produtos a ser removido do estoque: ");
@@ -54,11 +48,9 @@ namespace Produtos
 
             //Mostrando dados atualizados
             Console.WriteLine();
-            Console.Write("Dados atualizados: ");
-            Console.Write($"{product.Name}, ${product.Price.ToString("F2", CultureInfo.InvariantCulture)}, ");
-            Console.Write($"{product.Amount} unidades, ");
-            Console.WriteLine($"Total: $ {TotalValueProduct.ToString("F2", CultureInfo.InvariantCulture)}");
-            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: ");
+            Console.WriteLine(product);
+
 
         }
     }
