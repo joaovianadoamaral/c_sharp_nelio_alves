@@ -20,15 +20,15 @@ namespace Produtos
             return TotalValue;
         }
 
-        public void AddQuantityProducts(int Quantity)
+        public void AddQuantityProducts(int quantity)
         {
-            Amount += Quantity;
+            Amount += quantity;
 
         }
 
-        public void RemoveQuantityProducts(int Quantity)
+        public void RemoveQuantityProducts(int quantity)
         {
-            Amount -= Quantity;
+            Amount -= quantity;
         }
 
         public override string ToString()
