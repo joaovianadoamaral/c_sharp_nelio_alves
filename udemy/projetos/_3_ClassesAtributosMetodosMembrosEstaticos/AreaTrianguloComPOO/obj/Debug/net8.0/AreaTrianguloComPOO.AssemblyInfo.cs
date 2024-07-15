@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreaTrianguloComPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa2be818d76158ee7d9a352c1547cffae0e4f22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fac6ee3cbe3a45303576348fd1789fc8bfb0cbb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreaTrianguloComPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreaTrianguloComPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

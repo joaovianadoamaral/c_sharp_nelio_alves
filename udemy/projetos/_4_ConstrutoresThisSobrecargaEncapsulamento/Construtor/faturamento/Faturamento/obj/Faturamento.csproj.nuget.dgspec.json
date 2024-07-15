@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_3_ClassesAtributosMetodosMembrosEstaticos\\AreaTrianguloComPOO\\AreaTrianguloComPOO.csproj": {}
+    "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_4_ConstrutoresThisSobrecargaEncapsulamento\\Construtor\\faturamento\\Faturamento\\Faturamento.csproj": {}
   },
   "projects": {
-    "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_3_ClassesAtributosMetodosMembrosEstaticos\\AreaTrianguloComPOO\\AreaTrianguloComPOO.csproj": {
+    "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_4_ConstrutoresThisSobrecargaEncapsulamento\\Construtor\\faturamento\\Faturamento\\Faturamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_3_ClassesAtributosMetodosMembrosEstaticos\\AreaTrianguloComPOO\\AreaTrianguloComPOO.csproj",
-        "projectName": "AreaTrianguloComPOO",
-        "projectPath": "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_3_ClassesAtributosMetodosMembrosEstaticos\\AreaTrianguloComPOO\\AreaTrianguloComPOO.csproj",
+        "projectUniqueName": "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_4_ConstrutoresThisSobrecargaEncapsulamento\\Construtor\\faturamento\\Faturamento\\Faturamento.csproj",
+        "projectName": "Faturamento",
+        "projectPath": "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_4_ConstrutoresThisSobrecargaEncapsulamento\\Construtor\\faturamento\\Faturamento\\Faturamento.csproj",
         "packagesPath": "C:\\Users\\joaoj\\.nuget\\packages\\",
-        "outputPath": "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_3_ClassesAtributosMetodosMembrosEstaticos\\AreaTrianguloComPOO\\obj\\",
+        "outputPath": "D:\\estudos\\prog\\C#\\c_sharp_nelio_alves\\udemy\\projetos\\_4_ConstrutoresThisSobrecargaEncapsulamento\\Construtor\\faturamento\\Faturamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

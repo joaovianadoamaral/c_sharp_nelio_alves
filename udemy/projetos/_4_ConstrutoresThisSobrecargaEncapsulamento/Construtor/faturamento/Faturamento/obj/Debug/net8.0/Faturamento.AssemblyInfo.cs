@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AreaTrianguloComPOO")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Faturamento")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4562f96c535c18a940f2a0d7603dab974d552c90")]
-[assembly: System.Reflection.AssemblyProductAttribute("AreaTrianguloComPOO")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AreaTrianguloComPOO")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fac6ee3cbe3a45303576348fd1789fc8bfb0cbb8")]
+[assembly: System.Reflection.AssemblyProductAttribute("Faturamento")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Faturamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

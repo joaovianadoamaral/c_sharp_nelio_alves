@@ -1,0 +1,15 @@
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\bin\Debug\net8.0\Faturamento.exe
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\bin\Debug\net8.0\Faturamento.deps.json
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\bin\Debug\net8.0\Faturamento.runtimeconfig.json
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\bin\Debug\net8.0\Faturamento.dll
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\bin\Debug\net8.0\Faturamento.pdb
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\Faturamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\Faturamento.AssemblyInfoInputs.cache
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\Faturamento.AssemblyInfo.cs
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\Faturamento.csproj.CoreCompileInputs.cache
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\Faturamento.sourcelink.json
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\Faturamento.dll
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\refint\Faturamento.dll
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\Faturamento.pdb
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\Faturamento.genruntimeconfig.cache
+D:\estudos\prog\C#\c_sharp_nelio_alves\udemy\projetos\_4_ConstrutoresThisSobrecargaEncapsulamento\Construtor\faturamento\Faturamento\obj\Debug\net8.0\ref\Faturamento.dll
