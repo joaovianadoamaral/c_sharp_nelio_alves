@@ -7,7 +7,7 @@ namespace FuncIncreaseSalary
     {
         public long Id { get; set; }
         public string Name { get; set; }
-        public double Salary { get; set; }
+        public double Salary { get; private set; }
 
         public Employer(long id, string name, double salary)
         {
