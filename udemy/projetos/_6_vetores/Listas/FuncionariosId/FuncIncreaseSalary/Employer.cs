@@ -23,14 +23,47 @@ namespace FuncIncreaseSalary
         }
 
 
-        public static void ChooseIdIncreaseOfList(List<Employer> listEmployer, long idToIncrease, double increasePercentage)
+        public static void ToFillInList(List<Employer> listEmployees, int lenght)
         {
-            foreach (Employer employer in listEmployer)
+            for (int countEmployees = 0; countEmployees < lenght; countEmployees++)
             {
-                if (employer.Id == idToIncrease)
-                {
-                   employer.Salary = IncreaseSalary(increasePercentage, employer.Salary);
-                }
+                Console.WriteLine($"Emplyoee #{countEmployees + 1}");
+                Console.Write("Id: ");
+                long Id = long.Parse(Console.ReadLine());
+
+                Console.Write("Name: ");
+                string Name = Console.ReadLine();
+
+                Console.Write("Salary: ");
+                double Salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+                Console.WriteLine();
+
+                listEmployees.Add(new Employer(Id, Name, Salary));
+
+            }
+        }
+
+        public static Employer SearchIdInList(List<Employer> listEmployer, long id)
+        {
+            // 
+            Employer? employer = listEmployer.Find(empl => empl.Id == id);
+
+            if (employer == null)
+            {
+                Console.WriteLine("Id não existente.");
+            }
+
+            return employer;
+
+        }
+
+        public static void ShowEmployees(List<Employer> listEmployees)
+        {
+            Console.WriteLine("Updated list of employees: ");
+            foreach (Employer employer in listEmployees)
+            {
+                Console.WriteLine(employer);
             }
         }
 
