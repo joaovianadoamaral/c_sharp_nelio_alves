@@ -23,19 +23,21 @@
 
         static int[,] PreencherMatrizOrdemN(int lenghtMatriz)
         {
-            int[,] ints = new int[lenghtMatriz, lenghtMatriz];
+            int[,] Ints = new int[lenghtMatriz, lenghtMatriz];
 
             for (int row = 0; row < lenghtMatriz; row++)
             {
+                string[] Numbers = Console.ReadLine().Split(' ');
+
                 for (int col = 0; col < lenghtMatriz; col++)
                 {
-                    int lastElement = int.Parse(Console.ReadLine());
+                    int Number = int.Parse(Numbers[col]);
 
-                    ints[row, col] = lastElement;
+                    Ints[row, col] = Number;
                 }
             }
 
-            return ints;
+            return Ints;
         }
 
         static int[] MainDiagonal(int[,] ints)
